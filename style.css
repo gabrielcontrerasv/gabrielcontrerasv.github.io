@@ -1,0 +1,42 @@
+.logo{
+    color: yellow;
+    font-size: bold;
+}
+.a{
+  border-radius: 25px;
+}
+
+.b{
+    border-radius: 25px;
+}
+.c{
+    border-radius: 25px;
+}
+.d{
+    border-radius: 25px;
+}
+
+.e{
+    border-radius: 25px;
+}
+
+
+ul{
+    list-style: none;
+}
+
+.footer{
+    color: aliceblue;
+}
+
+.right{
+   margin-left: 75%;
+}
+
+.card-header {
+    border: solid 2px;
+}
+
+.card-body{
+    border: solid 2px;
+}
